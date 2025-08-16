@@ -16,16 +16,18 @@
 - **⚡ Fast and lightweight** - Built with FastAPI for optimal performance
 
 
-## Link to product walkthrough
-[link to video](Link Here)
+## product walkthrough
+
+[![Watch the video](docs/logo.jpeg)](https://github.com/user-attachments/assets/4232d6ea-1c19-4133-bd2e-5ff30cb7a7ba)
 
 ## 🎮 How to Play
+
 
 ### 1. Start Your Adventure
 ```bash
 POST /start
 {
-  "name": "YourPlayerName"
+  "player_name": "YourPlayerName"
 }
 ```
 
