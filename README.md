@@ -33,9 +33,9 @@ POST /start
 Each successful stage gives you a new riddle. Solve it to find the next endpoint!
 
 **Example Flow:**
-- **Stage 1**: `POST /age` with your answer
-- **Stage 2**: `POST /fire` with your answer
-- **Final Stage**: `POST /secrets` with your answer
+- **Stage 1**: `POST /answer1` with your answer
+- **Stage 2**: `POST /answer2` with your answer
+...
 
 ### 3. Submit Your Answers
 ```bash
